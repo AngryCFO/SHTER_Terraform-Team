@@ -1,6 +1,4 @@
-# Автор: Федорчук Дмитрий Сергеевич DEVOPS-33
-
-# Домашнее задание к занятию «Использование Terraform в команде»
+# Домашнее задание к занятию «Использование Terraform в команде» - `Александра Бужор`
 
 ### Задание 1
 
@@ -57,15 +55,13 @@
 
 ![img_7.png](IMG/img_7.png)
 
-3. Закоммитила изменения в ветку terraform-05. [Ссылка](https://github.com/DemoniumBlack/fedorchukds-devops-33-14/tree/terraform-05).
+3. Открываю terraform console, а в другом окне из этой же директории запускаю terraform apply.
 
-4. Открываю terraform console, а в другом окне из этой же директории запускаю terraform apply.
-
-5. Ответ об ошибке доступа к state:
+4. Ответ об ошибке доступа к state:
 
 ![img_8.png](IMG/img_8.png)
 
-6. Принудительно разблокирую state:
+5. Принудительно разблокирую state:
 
 ![img_9.png](IMG/img_9.png)
 
